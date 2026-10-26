@@ -18,4 +18,4 @@ jobs:
           python-version: '3.12'
 
       - name: Run Python program
-        run: python app.py
+        run: python git-lab6/app.py

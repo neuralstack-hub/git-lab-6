@@ -24,3 +24,6 @@ if 0 <= marks <= 100:
     print("Grade:", grade)
 else:
     print("Please enter marks between 0 and 100.")
+
+
+print("Git version control demonstration completed.")
